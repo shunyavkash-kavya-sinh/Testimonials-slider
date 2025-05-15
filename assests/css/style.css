@@ -61,10 +61,10 @@ body {
   position: absolute;
   right: 0;
   top: 0;
-  width: 400px;
+  width: 146px;
   height: 100%;
   z-index: 1;
-  background-image: linear-gradient(90deg, transparent 0%, var(--black) 75%);
+  background-image: linear-gradient(90deg, transparent 0%, var(--black) 96%);
 }
 
 .testimonial-block {
