@@ -6,13 +6,13 @@ document.addEventListener("DOMContentLoaded", function () {
         type: "loop",
         drag: "free",
         focus: "center",
-        perPage: 2,
+        perPage: 4,
         pagination: false,
         arrows: false,
         gap: "20px",
         autoScroll: false,
         autoScroll: {
-          speed: index % 2 ? "-1" : "1",
+          speed: index % 2 ? "-0.5" : "0.5",
         },
         breakpoints: {
           1024: {
