@@ -1,0 +1,31 @@
+@media only screen and (max-width: 640px) {
+  .testimonial-sec {
+    padding-block: 50px;
+  }
+
+  .main-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  .title-dec p {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+
+  .testimonial-name {
+    font-size: 16px;
+  }
+
+  .testimonial-post {
+    font-size: 14px;
+  }
+
+  .testimonial-name .testimonial-content p {
+    font-family: 12px;
+  }
+
+  .testimonial-block {
+    max-width: 500px;
+  }
+}
