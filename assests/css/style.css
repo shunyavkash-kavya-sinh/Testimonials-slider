@@ -23,7 +23,7 @@ body.dark-theme {
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Lato", sans-serif;
   user-select: none;
   background-color: var(--black);
 }
@@ -69,6 +69,7 @@ body {
 
 .testimonial-block {
   display: flex;
+  align-items: center;
   width: 100%;
   background-color: var(--primary);
   border-radius: 10px;
@@ -88,7 +89,7 @@ body {
 .title-dec p {
   color: var(--white);
   text-align: center;
-  line-height: 1.6;
+  line-height: 1.7;
   margin-bottom: 30px;
   max-width: 600px;
   text-align: center;
@@ -99,18 +100,20 @@ body {
   color: var(--white);
   font-size: 18px;
   margin-bottom: 6px;
+  line-height: 1;
 }
 
 .testimonial-post {
   color: var(--white);
-  font-size: 16px;
+  font-size: 14px;
   margin-bottom: 12px;
+  opacity: 0.5;
 }
 
 .testimonial-content p {
   color: var(--white);
-  font-weight: 200;
-  font-size: 12px;
+  font-size: 14px;
+  font-weight: 500;
   line-height: 1.6;
 }
 
