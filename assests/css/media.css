@@ -22,10 +22,10 @@
   }
 
   .main-testimonial-slider::before {
-    width: 100px;
+    width: 50px;
   }
 
   .main-testimonial-slider::after {
-    width: 100px;
+    width: 50px;
   }
 }
