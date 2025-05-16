@@ -24,4 +24,12 @@
   .testimonial-block {
     max-width: 500px;
   }
+
+  .main-testimonial-slider::before {
+    width: 100px;
+  }
+
+  .main-testimonial-slider::after {
+    width: 100px;
+  }
 }
